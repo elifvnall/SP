@@ -1,0 +1,33 @@
+﻿.footerlinks {
+    color:cadetblue;
+    text-decoration:none !important;
+}
+
+.footerlinks:hover {
+    color:azure;
+}
+
+#footer1 {
+    background-color:aliceblue;
+}
+#footer2 {
+    background:#531f00;
+}
+
+
+.navbar {
+    height: 60px;
+    font-weight:100;
+}
+
+section {
+    width: 100%;
+    overflow: hidden;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
